@@ -1,0 +1,8 @@
+#include <iostream>
+#include "fibonacci.h"
+
+int main () {
+    Fibonacci fib;
+    std::cout << "Classic Fibonacci of 10: " << fib.classic(25) << std::endl;
+    return 0;
+}
