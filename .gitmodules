@@ -1,0 +1,3 @@
+[submodule "Week7/cmake-variant/libs/gnuplot/gnuplot-iostream"]
+	path = Week7/cmake-variant/libs/gnuplot/gnuplot-iostream
+	url = https://github.com/dstahlke/gnuplot-iostream
